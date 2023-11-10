@@ -21,3 +21,4 @@ In the process of creating Running Dude, I gained insights into several key aspe
 - Game Graphics: Working with simple game graphics, including loading images, creating sprites, and updating the display.
 
   ## Screenshots
+![running dude pic](https://github.com/sabuuuu/running-dude/blob/main/assets/run.png)
