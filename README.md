@@ -20,5 +20,13 @@ In the process of creating Running Dude, I gained insights into several key aspe
 
 - Game Graphics: Working with simple game graphics, including loading images, creating sprites, and updating the display.
 
-  ## Screenshots
+## Screenshots
 ![running dude pic](https://github.com/sabuuuu/running-dude/blob/main/assets/run.png)
+
+## Installation
+- Clone the repository.
+- Install Pygame by running pip install pygame in your Python environment.
+- Run the main.py script to start the game.
+
+### Contributing
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
